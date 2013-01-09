@@ -5,5 +5,5 @@ Bundler.require
  
 
 get "/" do
-  "Did this update really really work?"
+  "If you see this, the post receive hook worked"
 end
