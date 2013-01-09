@@ -5,5 +5,5 @@ Bundler.require
  
 
 get "/" do
-  "ready for appfog?"
+  "hello world"
 end
