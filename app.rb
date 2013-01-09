@@ -5,5 +5,5 @@ Bundler.require
  
 
 get "/" do
-  "Github Post-receive hook works!"
+  "another test"
 end
