@@ -5,5 +5,5 @@ Bundler.require
  
 
 get "/" do
-  "now deploy to appfog"
+  "ready for appfog?"
 end
