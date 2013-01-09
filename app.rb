@@ -5,5 +5,5 @@ Bundler.require
  
 
 get "/" do
-  "hi honey!"
+  "now deploy to appfog"
 end
