@@ -5,5 +5,5 @@ Bundler.require
  
 
 get "/" do
-  "hello michelle!"
+  "hello world!"
 end
