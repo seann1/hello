@@ -5,5 +5,5 @@ Bundler.require
  
 
 get "/" do
-  "hello AppFog Deployer round 2"
+  "This should redeploy on AppFog"
 end
