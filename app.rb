@@ -5,5 +5,5 @@ Bundler.require
  
 
 get "/" do
-  "This should redeploy on AppFog"
+  "This should redeploy for Rich"
 end
