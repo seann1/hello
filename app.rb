@@ -5,5 +5,5 @@ Bundler.require
  
 
 get "/" do
-  "Another test"
+  "Party time"
 end
