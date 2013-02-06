@@ -5,5 +5,5 @@ Bundler.require
  
 
 get "/" do
-  "This should be a new deploy"
+  "This should be another new deploy"
 end
