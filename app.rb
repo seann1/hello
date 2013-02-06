@@ -5,5 +5,5 @@ Bundler.require
  
 
 get "/" do
-  "Party time"
+  "Party time, go go go"
 end
