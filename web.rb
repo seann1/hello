@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Party time, go go go"
+  "Can we run on Heroku?"
 end
