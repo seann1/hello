@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Let's deploy"
+  "Hello"
 end
