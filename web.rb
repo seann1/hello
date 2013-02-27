@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello Cloudability!!"
+  "Hello JP!!"
 end
