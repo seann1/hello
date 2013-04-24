@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello Seattle JS!!"
+  "Hello Microsoft.... TechStars!!"
 end
