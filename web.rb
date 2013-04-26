@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello SEO Mom"
+  "Hello Todd"
 end
