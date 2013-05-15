@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello Private Beta 02"
+  "Hello Private Beta 03"
 end
