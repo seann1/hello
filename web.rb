@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello RS2!!"
+  "Hello Resource!!"
 end
