@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello IBM!!!"
+  "Hello Services v2!!!"
 end
