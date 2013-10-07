@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello Template!!!"
+  "Hello Alex's template!!!"
 end
