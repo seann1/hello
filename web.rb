@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello listeners 2!!!"
+  "Hello cloud foundry!!!"
 end
