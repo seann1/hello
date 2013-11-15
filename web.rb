@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello heroku"
+  "Hello cloud foundry"
 end
