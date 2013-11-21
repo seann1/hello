@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello cloud foundry"
+  "Hello Factor.io Public Beta, here I come"
 end
