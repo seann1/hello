@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Pusher Tester"
+  "Hello Heroku"
 end
