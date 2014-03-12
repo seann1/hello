@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello new Github API 05"
+  "Hello new Github API 06"
 end
