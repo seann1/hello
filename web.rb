@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello new Heroku Build API"
+  "Hello new Heroku Build API..."
 end 
