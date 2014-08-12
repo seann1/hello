@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello heroku hosted"
+  "Hello heroku hosted."
 end 
