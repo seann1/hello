@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello RS hosted."
+  "Hello Rackspace hosted."
 end 
