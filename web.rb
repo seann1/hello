@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello Switzerland."
+  "Hello Rackspace."
 end 
