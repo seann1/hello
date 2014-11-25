@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello, sandbox"
+  "Hello, sandybox"
 end 
